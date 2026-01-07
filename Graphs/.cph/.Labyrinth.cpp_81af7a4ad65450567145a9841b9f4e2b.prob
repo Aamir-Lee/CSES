@@ -1,0 +1,1 @@
+{"name":"Local: Labyrinth","url":"e:\\Boolean_Autocrat\\CSES.fi\\Graphs\\Labyrinth.cpp","tests":[{"id":1759695721231,"input":"5 8\n########\n#.A#...#\n#.##.#B#\n#......#\n########","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Boolean_Autocrat\\CSES.fi\\Graphs\\Labyrinth.cpp","group":"local","local":true}

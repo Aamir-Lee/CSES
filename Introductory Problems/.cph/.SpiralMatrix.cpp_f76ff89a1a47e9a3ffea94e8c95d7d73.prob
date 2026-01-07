@@ -1,0 +1,1 @@
+{"name":"Local: SpiralMatrix","url":"e:\\Boolean_Autocrat\\CSES.fi\\Introductory Problems\\SpiralMatrix.cpp","tests":[{"id":1732428449683,"input":"3\n2 3\n1 1\n4 2","output":"8\n1\n15"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Boolean_Autocrat\\CSES.fi\\Introductory Problems\\SpiralMatrix.cpp","group":"local","local":true}
